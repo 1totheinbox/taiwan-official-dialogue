@@ -1,0 +1,4 @@
+interface:
+  display_name: "臺灣公文對話模擬器（Codex 專用版）"
+  short_description: "將需求改寫為完整臺灣函稿後以完整函稿復文；首次啟用先設定內部機關。"
+  default_prompt: "請使用 $taiwan-official-dialogue-codex 啟用臺灣公文對話模擬，先設定內部機關，再把我的話改寫成完整函稿並以另一份完整函稿復文。"
