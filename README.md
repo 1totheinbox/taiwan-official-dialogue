@@ -91,3 +91,7 @@ Gemini CLI、Antigravity 及其他支援 Agent Skills 的工具：放進該工�
 - 國家文官學院《公文撰作解析》
 
 `references/general-guide.md` 文末列有完整來源；其中部分釋例取自二手轉引，正式送件前請回到官方來源查證。
+
+## 授權
+
+本技能以 MIT 授權釋出，見 [LICENSE](LICENSE)。`references/general-guide.md` 引用的法規、釋例及教材文字，著作權屬原機關或原作者。
